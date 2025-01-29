@@ -44,7 +44,7 @@ about:
   license: "Apache-2.0"
   license_family: APACHE 
   license_file: LICENSE
-  description: "get_pangenes.pl computes whole genome alignments (WGA) to define clusters of collinear, orthologous genes/features annotated in GFF files, defining pangenes across a pangenome. currently the bioconda version supports nly minimap2."
+  description: "get_pangenes.pl computes whole genome alignments (WGA) to define clusters of collinear, orthologous genes/features annotated in GFF files, defining pangenes across a pangenome. Report bugs at https://github.com/Ensembl/plant-scripts/issues"
 
 extra:
   container:
